@@ -1,0 +1,12 @@
+{
+  "name": "reading-beta",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node reading.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
